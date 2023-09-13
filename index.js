@@ -3,14 +3,24 @@
 // a/=3;
 // console.log(a)
 
-function name1 (){
-    return function name(...arg) {  
-        return "hola mundo"    
-    }
-}
+// function name1 (){
+//     return function name(...arg) {  
+//         return "hola mundo"    
+//     }
+// }
 
-const hola= name1();
+// const hola= name1();
 
-console.log(hola('jhfgfghjm'));
+// console.log(hola('jhfgfghjm'));
+
+
+
+
+
+
+
+
+
+
 
 
